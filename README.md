@@ -1,6 +1,6 @@
 # \#Aula 1
 
-Aprendendo a usar os comandos: 
+Aprendendo a usar os comandos:
 
 git clone
 
@@ -11,4 +11,6 @@ git commit
 git push
 
 git status
+
+sucesso
 
